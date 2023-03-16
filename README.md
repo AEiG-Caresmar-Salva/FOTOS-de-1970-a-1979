@@ -1,8 +1,8 @@
 # FOTOS de 1970 a 1979
 
-[1971](https://github.com/AEiG-Caresmar-Salva/FOTOS-de-1970-a-1979/tree/main/1971)
-
 [1970](https://github.com/AEiG-Caresmar-Salva/FOTOS-de-1970-a-1979/tree/main/1970)
+
+[1971](https://github.com/AEiG-Caresmar-Salva/FOTOS-de-1970-a-1979/tree/main/1971)
 
 [1972](https://github.com/AEiG-Caresmar-Salva/FOTOS-de-1970-a-1979/tree/main/1972)
 
